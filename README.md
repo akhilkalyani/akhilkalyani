@@ -1,9 +1,7 @@
-# 👋 Hello, I'm Deepak kalyani
->.  
+# Deepak kalyani - Unity game developer
 
-# | C# | Unity3D |
-
-I am a Senior Software Developer with 5 years of experience specializing in creating immersive gaming experiences across android & IOS platforms. My expertise lies in Unity3D, where I design scalable architectures, optimize game mechanics, and focus on enhancing user engagement and performance.
+# Professional Summary :
+Experienced Unity Developer with 5+ years of expertise in mobile game development, specializing in multiplayer systems, performance optimization, and modular game architecture. Proven leadership on mid-to-large-scale projects from prototyping to live deployment. Adept in C#, Unity, Photon, and asset optimization, with a strong foundation in both front-end and backend systems. Passionate about building polished, scalable, and engaging games.
 
 ## Key Skills:
 - **Unity3D**: Experienced in developing cross platform mobile game.
@@ -15,8 +13,14 @@ I am a Senior Software Developer with 5 years of experience specializing in crea
   
 ### Tools and Practices:
 - **GitHub**: Proficient in using GitHub for code review processes, managing pull requests, and providing feedback through inline comments.
-- **Continuous Integration (CI)**: Familiar with CI/CD pipelines to automate build and test processes, ensuring smooth integration and deployment after code reviews.
-- **Automated Code Analysis**: I often integrate tools such as **Unity Profiler** to assist in analyzing code quality and performance before, during, and after code reviews.
+- **Continuous Integration (CI)**: Familiar with CI/CD pipelines to automate build and test processes, ensuring smooth integration and deployment after code 
+                                   reviews.
+- **Automated Code Analysis**: I often integrate tools such as **Unity Profiler** to assist in analyzing code quality and performance before, during, and after 
+                               code reviews.
+- **Fork (git client)**: I use this tool to manage git repo.
+- **VS code**: I use VS code editor my unity c# scripting along with couple of extentions for code intelisence, formatting, code documentation.
+- **Affine note**: I use this app for taking note for daily basis. It allows to store note in the form of projects So it makes it easy to manage multiple projects 
+                   documents at the same time. Also i use this tool for mind mapping for designing game logic OR architecture.
 
 
 ## What I Do:
