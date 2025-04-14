@@ -40,6 +40,11 @@ Feel free to explore my work and contributions in this repository.
 - Implemented core gameplay with custom rules.
 - Developed a custom C# Unity event system for handling main game events, including API calls.
 
+### 🎲 Ludo (Casino)
+- Used custom socket connection Like (BestHttp plugin) to connect to socket server.
+- Implemented Bot behaviour
+- Implemented State machine for turn handling.
+
 ### 🎵 Song Beat (Music)
 - Resolved bugs and implemented UI screens.
 - Optimized assets for improved performance.
