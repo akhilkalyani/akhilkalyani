@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Deepak kalyani
 >.  
 
-# Software Developer JAVA | C# | Unity3D | Springboot |.net
+# | C# | Unity3D |
 
 I am a Senior Software Developer with 5 years of experience specializing in creating immersive gaming experiences across android & IOS platforms. My expertise lies in Unity3D, where I design scalable architectures, optimize game mechanics, and focus on enhancing user engagement and performance.
 
 ## Key Skills:
-- **Unity3D**: Experienced in developing applications for casino mobile platform like (teen patti, Rummy).
+- **Unity3D**: Experienced in developing applications for casino mobile platform like (Teen patti, Roulette).
 - **Custom framework development**: Creating custom framework in c# unity for addressing overall commonly occuring development issues.
 - **Mobile games**: Expertise in building cross-platform mobile applications.
 - **Mentorship**: Passionate about guiding trainees in gameplay development and collaborative project work.
@@ -28,21 +28,19 @@ I am a Senior Software Developer with 5 years of experience specializing in crea
 
 Feel free to explore my work and contributions in this repository.
 ## Projects
-- **Unity game framework** : (https://github.com/akhilkalyani/GameFramework)
-- **Ludo game offline** : (https://github.com/akhilkalyani/Ludo))
+- **Teen patti (Casino game)**
+- **Roulette (Casino game)**
+- **Song Beat (Music game)**
+- **Battle saga (clone of Clash of clans)**
+- **Apples & Banana (Kids learning)**  
 
 ## 🛠️ Skills & Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![RESTful API](https://img.shields.io/badge/-RESTful%20API-00BFFF?logo=api&logoColor=white&style=flat)
-![Web Frameworks](https://img.shields.io/badge/-Web%20Frameworks-61DAFB?logo=react&logoColor=black&style=flat)
 ![Google Play Store](https://img.shields.io/badge/-Google%20Play%20Store-34B7F1?logo=google-play&logoColor=white&style=flat)
 ![XCode](https://img.shields.io/badge/-XCode-147EFB?logo=xcode&logoColor=white&style=flat)
 ![.NET](https://img.shields.io/badge/-NET-512BD4?logo=.net&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat)
-![Microservices](https://img.shields.io/badge/-Microservices-00B8D9?logo=docker&logoColor=white&style=flat)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat)
 
 
 ---
