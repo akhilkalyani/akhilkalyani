@@ -40,16 +40,7 @@ Feel free to explore my work and contributions in this repository.
 ![Google Play Store](https://img.shields.io/badge/-Google%20Play%20Store-34B7F1?logo=google-play&logoColor=white&style=flat)
 ![XCode](https://img.shields.io/badge/-XCode-147EFB?logo=xcode&logoColor=white&style=flat)
 ![.NET](https://img.shields.io/badge/-NET-512BD4?logo=.net&logoColor=white&style=flat)
-
-
 ---
-
-## 📊 GitHub Stats
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilkalyani&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deoregauravd&layout=compact&theme=radical)
-
-
 ---
 
 ## 🌐 Connect with Me
