@@ -6,7 +6,7 @@
 I am a Senior Software Developer with 5 years of experience specializing in creating immersive gaming experiences across android & IOS platforms. My expertise lies in Unity3D, where I design scalable architectures, optimize game mechanics, and focus on enhancing user engagement and performance.
 
 ## Key Skills:
-- **Unity3D**: Experienced in developing applications for casino mobile platform like (Teen patti, Roulette).
+- **Unity3D**: Experienced in developing cross platform mobile game.
 - **Custom framework development**: Creating custom framework in c# unity for addressing overall commonly occuring development issues.
 - **Mobile games**: Expertise in building cross-platform mobile applications.
 - **Mentorship**: Passionate about guiding trainees in gameplay development and collaborative project work.
