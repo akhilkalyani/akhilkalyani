@@ -8,7 +8,6 @@ I am a Senior Software Developer with 5 years of experience specializing in crea
 ## Key Skills:
 - **Unity3D**: Experienced in developing cross platform mobile game.
 - **Custom framework development**: Creating custom framework in c# unity for addressing overall commonly occuring development issues.
-- **Mobile games**: Expertise in building cross-platform mobile applications.
 - **Mentorship**: Passionate about guiding trainees in gameplay development and collaborative project work.
 - **Performance Optimization**: Proven ability to optimize game mechanics for smooth, engaging experiences.
 - **Code Review** : I place a strong emphasis on the importance of code quality, maintainability, and collaboration in any development process. In my experience, code reviews not only improve the quality of the codebase but also foster a learning culture among team 
