@@ -26,12 +26,33 @@ I am a Senior Software Developer with 5 years of experience specializing in crea
 - Mentor junior developers and guide teams in gameplay development and technical challenges.
 
 Feel free to explore my work and contributions in this repository.
-## Projects
-- **Teen patti (Casino game)**
-- **Roulette (Casino game)**
-- **Song Beat (Music game)**
-- **Battle saga (clone of Clash of clans)**
-- **Apples & Banana (Kids learning)**  
+## 🧩 Projects
+
+### 🎮 Teen Patti (Casino)
+- Implemented core gameplay logic, UI, and inventory systems.
+- Developed a finite state machine for turn handling.
+- Integrated Unity Photon for multiplayer functionality and created bots for offline play.
+- Implemented in-app purchases and app monetization strategies.
+
+### 🎲 Roulette (Casino)
+- Designed comprehensive game logic and rules.
+- Utilized a finite state machine for managing game states.
+- Implemented core gameplay with custom rules.
+- Developed a custom C# Unity event system for handling main game events, including API calls.
+
+### 🎵 Song Beat (Music)
+- Resolved bugs and implemented UI screens.
+- Optimized assets for improved performance.
+
+### ⚔️ Battle Saga (Clone of clash of clans)
+- Addressed bugs and optimized assets.
+- Conducted code reviews and created documentation.
+
+### 🍎 Apples & Banana (Kids learning)
+- Developed mini gameplay features.
+- Implemented a system to download mini-games from the cloud on demand using addressables.
+- Performed code reviews and optimized code and assets.
+
 
 ## 🛠️ Skills & Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
