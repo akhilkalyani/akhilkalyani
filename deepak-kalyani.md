@@ -48,6 +48,8 @@ Software Developer with 5 years of experience in Unity3D and C#, specializing in
   * Reduced server response time by 10% by restructuring the Response Entity for more efficient data handling.
 
 ***
+#### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/deepak-kalyani-393b73175/)
 
 
 
