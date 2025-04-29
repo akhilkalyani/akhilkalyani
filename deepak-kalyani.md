@@ -25,7 +25,7 @@ Software Developer with 5 years of experience in Unity3D and C#, specializing in
 ## What I Do:
 
 * Design scalable and efficient game architectures.
-* Collaborate on the development of interactive mobile game experiences.
+* Collaborated across teams for system design and feature rollout.
 * Work in fast-paced environments to deliver innovative solutions with a focus on user experience.
 
 ## 🧩 Projects
