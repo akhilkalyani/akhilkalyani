@@ -1,40 +1,77 @@
-# Deepak kalyani - Software Engineer 
+# Deepak kalyani - Unity game developer
 
 # Professional Summary :
-Software Developer with 5 years of experience in Unity3D and C#, specializing in mobile game development, multiplayer systems, and game architecture. Over the past year, completed 2 freelance and 2 personal projects using Java, Spring Boot, and MySQL, focused on building REST APIs, backend development, and database integration. Experienced in end-to-end project delivery, team collaboration, code reviews, and system optimization. Actively seeking a full-time Java Developer role to apply backend development skills in a professional environment.
+Experienced Unity Developer with 5+ years of expertise in mobile game development, specializing in multiplayer systems, performance optimization, and modular game architecture. Proven leadership on mid-to-large-scale projects from prototyping to live deployment. Adept in C#, Unity, Photon, and asset optimization, with a strong foundation in both front-end and backend systems. Passionate about building polished, scalable, and engaging games.
 
-# Key Skills:
-- **Java**
-- **C#** 
-- **Git**
-- **Linux**
-- **SQL**
-
+## Key Skills:
+- **Unity3D**: Experienced in developing cross platform mobile game.
+- **Custom framework development**: Creating custom framework in c# unity for addressing overall commonly occuring development issues.
+- **Mentorship**: Passionate about guiding trainees in gameplay development and collaborative project work.
+- **Performance Optimization**: Proven ability to optimize game mechanics for smooth, engaging experiences.
+- **Code Review** : I place a strong emphasis on the importance of code quality, maintainability, and collaboration in any development process. In my experience, code reviews not only improve the quality of the codebase but also foster a learning culture among team 
+    members.
   
-# Tools and Practices:
-- **VS Code**
-- **Spring / Spring boot**
-- **Affine note (For note taking & design)**
-- **Unity**
-- **Fork (git client)**
+### Tools and Practices:
+- **GitHub**: Proficient in using GitHub for code review processes, managing pull requests, and providing feedback through inline comments.
+- **Continuous Integration (CI)**: Familiar with CI/CD pipelines to automate build and test processes, ensuring smooth integration and deployment after code 
+                                   reviews.
+- **Automated Code Analysis**: I often integrate tools such as **Unity Profiler** to assist in analyzing code quality and performance before, during, and after 
+                               code reviews.
+- **Fork (git client)**: I use this tool to manage git repo.
+- **VS code**: I use VS code editor my unity c# scripting along with couple of extentions for code intelisence, formatting, code documentation.
+- **Affine note**: I use this app for taking note for daily basis. It allows to store note in the form of projects So it makes it easy to manage multiple projects 
+                   documents at the same time. Also i use this tool for mind mapping for designing game logic OR architecture.
+
 
 ## What I Do:
 - Design scalable and efficient game architectures.
 - Collaborate on the development of interactive mobile game experiences.
 - Work in fast-paced environments to deliver innovative solutions with a focus on user experience.
+- Mentor junior developers and guide teams in gameplay development and technical challenges.
 
+Feel free to explore my work and contributions in this repository.
 ## 🧩 Projects
 
-### User Analytics system (Java | Spring boot | MySQL | REST API)
-- Reduced server response time by 15% by restructuring API & SQL tables by using normal form.
+### 🎮 Teen Patti (Casino)
+- Implemented core gameplay logic, UI, and inventory systems.
+- Developed a finite state machine for turn handling.
+- Integrated Unity Photon for multiplayer functionality and created bots for offline play.
+- Implemented in-app purchases and app monetization strategies.
 
-### User Authentication and Leaderboard System (Java | Spring boot | MySQL | REST API)
-- Handled concurrent user sign-ins with optimized database indexing.
-- Reduced leaderboard query time by 20% using optimized SQL joins.
-  
-### QMoney-Stock portfolio analyzer (Personal) (Java | Spring boot | MySQL | REST API)
-- Used Tiingo’s API to compute annualized stock returns.
-- Reduced server response time by 10% by restructuring the Response Entity for more efficient data handling.
+### 🎲 Roulette (Casino)
+- Designed comprehensive game logic and rules.
+- Utilized a finite state machine for managing game states.
+- Implemented core gameplay with custom rules.
+- Developed a custom C# Unity event system for handling main game events, including API calls.
+
+### 🎲 Ludo (Casino)
+- Used custom socket connection Like (BestHttp plugin) to connect to socket server.
+- Implemented Bot behaviour
+- Implemented State machine for turn handling.
+
+### 🎵 Song Beat (Music)
+- Resolved bugs and implemented UI screens.
+- Optimized assets for improved performance.
+
+### ⚔️ Battle Saga (Clone of clash of clans)
+- Addressed bugs and optimized assets.
+- Conducted code reviews and created documentation.
+
+### 🍎 Apples & Banana (Kids learning)
+- Developed mini gameplay features.
+- Implemented a system to download mini-games from the cloud on demand using addressables.
+- Performed code reviews and optimized code and assets.
+
+
+## 🛠️ Skills & Tools
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-00BFFF?logo=api&logoColor=white&style=flat)
+![Google Play Store](https://img.shields.io/badge/-Google%20Play%20Store-34B7F1?logo=google-play&logoColor=white&style=flat)
+![XCode](https://img.shields.io/badge/-XCode-147EFB?logo=xcode&logoColor=white&style=flat)
+![.NET](https://img.shields.io/badge/-NET-512BD4?logo=.net&logoColor=white&style=flat)
+---
+---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/deepak-kalyani-393b73175/)
